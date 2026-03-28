@@ -143,7 +143,6 @@ class ResumoFaltas:
 
     def __init__(self, faltas: list[Falta]) -> None:
         self._faltas = faltas
-        # Precompute common aggregations
         self._total_aulas = sum(f.quantidade for f in faltas)
         self._total_justificadas = sum(
             f.quantidade for f in faltas if f.justificada
