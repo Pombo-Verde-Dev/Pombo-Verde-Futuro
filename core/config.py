@@ -59,7 +59,7 @@ class Config:
     DEFAULT_DURATION: float = 2431.63
 
     HEADERS: dict[str, str] = field(default_factory=lambda: {
-        "User-Agent": "", # use o seu user agent,
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0", # use o seu user agent,
         "Accept": "application/json",
         "Origin": "https://saladofuturo.educacao.sp.gov.br",
         "Referer": "https://saladofuturo.educacao.sp.gov.br/",
