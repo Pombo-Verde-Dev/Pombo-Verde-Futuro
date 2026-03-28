@@ -80,7 +80,6 @@ class HTML:
         return text[:length].rsplit(" ", 1)[0] + suffix
 
 
-# Convenience functions
 def extract_text(html: str | None) -> str:
     """Extrai texto limpo do HTML."""
     return HTML.clean(html)
