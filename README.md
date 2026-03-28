@@ -585,7 +585,5 @@ Se este projeto te ajudou, deixe uma ⭐!
 **Feito com ❤️ por estudantes, para estudantes**
 
 ⭐ [Star no GitHub](https://github.com/Pombo-Verde-Dev/salafuturo) • 
-🐦 [Seguir no Twitter](https://twitter.com/seu-user) • 
-💬 [Comunidade Discord](https://discord.gg/seu-server)
 
 </div>
