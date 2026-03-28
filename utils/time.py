@@ -78,7 +78,6 @@ class TimeUtil:
         return min(1.0, max(0.0, passed / total))
 
 
-# Convenience functions
 def format_relative_time(dt: datetime) -> str:
     """Formata datetime como tempo relativo."""
     return TimeUtil.format_relative(dt)
