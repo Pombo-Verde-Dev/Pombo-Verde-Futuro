@@ -59,7 +59,6 @@
 - ✅ API async (asyncio)
 - ✅ Type hints completo
 - ✅ Cache inteligente
-- ✅ Event system (discord.py style)
 
 </td>
 </tr>
