@@ -98,7 +98,7 @@ salafuturo/
 
 ### 1. Copiar arquivo de ambiente
 ```bash
-cp .env.example .env
+cp .env.example .env ..
 ```
 
 ### 2. Preencher credenciais
