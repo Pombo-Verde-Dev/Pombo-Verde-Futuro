@@ -75,7 +75,7 @@
 ### Via Git
 ```bash
 git clone https://github.com/Pombo-Verde-Dev/salafuturo.py.git
-cd salafuturo
+cd salafuturo.py
 pip install -r requirements.txt
 ```
 
